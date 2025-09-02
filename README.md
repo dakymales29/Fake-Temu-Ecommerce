@@ -11,3 +11,5 @@ Implementa funcionalidades básicas de un comercio electrónico como listado de 
 ## Tecnologías utilizadas
 - **Frontend:** Vue.js, Vite, Tailwind CSS.
 - **API:** FakeStoreAPI (API pública RESTful).
+## VER EL PROYECTO
+https://dakymales29.github.io/Fake-Temu-Ecommerce/
