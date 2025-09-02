@@ -7,11 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-=======
->>>>>>> ccd8679a93813e049619ee1135b40d362b1dc948
+
   },
   "dependencies": {
     "jspdf": "^3.0.2",
